@@ -16,7 +16,6 @@ attrs==20.2.0
 backcall==0.2.0
 base58==2.1.0
 bcrypt==3.1.7
-binwalk==2.2.0
 bleach==3.3.0
 blinker==1.4
 boto3==1.16.56
